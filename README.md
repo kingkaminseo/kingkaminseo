@@ -1,16 +1,5 @@
-# 👋 Hello! I'm [Your Name]
+# 👋 Hello! I'm Kim Minseo
 
-I'm a high school senior passionate about frontend development. I love building interactive and efficient web applications using modern technologies. Here's more about me:
-
-- 💻 I’m currently working with: **TypeScript**, **React.js**  
-- 🌱 I’m currently learning: **Advanced Frontend techniques**  
-- 👯 I’m looking to collaborate on: **Frontend projects, especially with TypeScript and React**  
-- 💬 Ask me about: **Frontend development, React, TypeScript**  
-- 📫 How to reach me: [Your Email](mailto:your-email@example.com)  
-- 😄 Pronouns: [Your pronouns]  
-- ⚡ Fun fact: I started coding in high school and fell in love with building websites!
-
----
 
 ### 🔧 Technologies & Tools
 
