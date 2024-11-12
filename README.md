@@ -51,24 +51,10 @@
 
 ---
 
-## 📈 GitHub 통계  
-### 💡 성장을 보여주는 통계  
-![김민서의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=kingkaminseo&show_icons=true&theme=radical)  
-![상위 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=kingkaminseo&layout=compact)
-
----
-
 ## 📅 목표  
 **1일 1커밋**을 목표로 개발에 임하며, 매일 조금씩 더 나은 개발자로 성장하고 있습니다. 🌱  
 항상 새로운 도전을 두려워하지 않고, 기술적인 역량을 키워가고 있습니다. 🚀
 
 ---
-
-### 📬 연락처  
-- 이메일: [kimminseo@example.com](mailto:kimminseo@example.com)  
-- 블로그: [https://kimminseo.dev](https://kimminseo.dev)
-
----
-
 
 
