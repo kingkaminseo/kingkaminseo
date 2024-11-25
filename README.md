@@ -16,15 +16,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-### ⚙️ **Frameworks & Tools**  
-<p>
-  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
-  <img src="https://img.shields.io/badge/React--Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" alt="Prettier" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/React--Modal-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Modal" />
-</p>
+
 
 
 ### 🖥 **Development Tools**  
