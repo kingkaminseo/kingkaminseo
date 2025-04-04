@@ -47,4 +47,3 @@ I enjoy building web apps with <b>React</b> and <b>TypeScript</b>, and I’m gro
 
 <h2>🌳🌲🌳🌳🌳🌲🌳🌳🌳🌲🌳🌳🌳🌲🌳🌳🌳🌲🌳</h2>
 </div>
-<br/>
