@@ -1,49 +1,50 @@
-# Hi there, I'm Minseo
-프론트엔드 개발에 열정을 가지고 있는 **개발자**입니다.  
-웹 애플리케이션을 만드는 것에 큰 매력을 느끼며, 다양한 **기술 스택**을 활용하여 직관적이고 효율적인 사용자 경험을 제공하고 있습니다.  
-**1일 1커밋** 목표로 꾸준히 성장하고 있습니다. 💪
 
----
-
-## 🛠️ 사용 기술 & 도구  
-
-### ✨ **Tech Stack** ✨  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
+<div align="center">
+  <br/>
+<h1>🌦️☁️☁️☁️🌧️☁️☁️☁️🌧️☁️☁☁️🌧️☁️<br/><br/><i>Welcome To My Github</i></h1>
+  
+  <br/>
+<i>Hi There, Welcome To My Github</i><br/>
+<i>I'm <b>Minseo🌱</b></i><br/>
+  <br/>
+<i>
+I`m a boy passionate about <b>Frontend Development</b>.<br/> 
+I’ve been learning and building since my high school days.<br/>
+I enjoy building web apps with <b>React</b> and <b>TypeScript</b>, and I’m growing and learning every day!
+</i>
 
 
+#### 💻 Tech Stack
+<img src="https://img.shields.io/badge/React-4169E1?style=flat&logo=react&logoColor=white" />
 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=zenn&logoColor=white" />
+<img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=white" />
+<img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat&logo=reacthookform&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Prettier-7B42F6?style=flat&logo=prettier&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" />
 
-### 🖥 **Development Tools**  
-<p>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-</p>
+#### 🌱 Currently Learning
+<img src="https://img.shields.io/badge/React_Native-3558C8?style=flat&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<br/>
+<br/>
+<br/>
+<blockquote>
+<i><h4>Thanks for visiting! Bye bye~ 👋</h4></i>
+</blockquote>
+<br/>
 
-### 💬 **Community**  
-<p>
-  <a href="https://github.com/kingkaminseo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-### 📚 **Study** 📚  
-<p>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
----
-
-## 📅 목표  
-**1일 1커밋**을 목표로 개발에 임하며, 매일 조금씩 더 나은 개발자로 성장하고 있습니다. 🌱  
-항상 새로운 도전을 두려워하지 않고, 기술적인 역량을 키워가고 있습니다. 🚀
-
----
-
-
+<h2>🌳🌲🌳🌳🌳🌲🌳🌳🌳🌲🌳🌳🌳🌲🌳🌳🌳🌲🌳</h2>
+</div>
+<br/>
