@@ -21,14 +21,17 @@ I enjoy building web apps with <b>React</b> and <b>TypeScript</b>, and I’m gro
 <br/>
 [![React](https://img.shields.io/badge/Zustand-000000?style=flat&logo=zenn&logoColor=white)](https://zustand-demo.pmnd.rs/)
 [![React](https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=white)](https://tanstack.com/query/latest)
-[![React](https://img.shields.io/badge/ReactHookForm-EC5990?style=flat&logo=reacthookform&logoColor=white)](https://www.react-hook-form.com/api/)
+[![Zod](https://img.shields.io/badge/Zod-3E72C0?style=flat&logo=Zod&logoColor=white)](https://github.com/colinhacks/zod)
+[![React](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)](https://socket.io/)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)](https://jestjs.io/)
+<br/>
 [![React](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![React](https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styledcomponents&logoColor=white)](https://styled-components.com/)
-<br/>
 [![React](https://img.shields.io/badge/Prettier-7B42F6?style=flat&logo=prettier&logoColor=white)](https://prettier.io/)
-[![React](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)](https://socket.io/)
+<br/>
 [![React](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
 [![React](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/)
+
 
 #### 🌱 Currently Learning
 [![React](https://img.shields.io/badge/React_Native-3558C8?style=flat&logo=react&logoColor=white)](https://reactnative.dev/)
